@@ -131,10 +131,9 @@ html, body {
 }
 
 .home-overlay-one {
-  position: relative;
   display: block;
   width: auto;
-  max-width: 930px;
+  max-width: 1000px;
   margin: 0 auto;
 }
 
