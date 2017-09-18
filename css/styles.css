@@ -12,7 +12,6 @@ html, body {
 }
 
 .wrap-logo-nav-center {
-  display: block;
   width: auto;
   max-width: 1187px;
   margin: 0 auto;
@@ -132,13 +131,12 @@ html, body {
 
 .overlay-center {
   position: relative;
-  display: block;
   width: auto;
   max-width: 1000px;
   margin: 0 auto;
 }
 
-.overlay-center:before {
+.overlay-center:after {
   position: absolute;
   content: url(../images/ic_1.png);
   left: 50%; 
@@ -211,7 +209,6 @@ html, body {
 }
 
 .summary-overlay {
-  display: block;
   width: auto;
   max-width: 877px;
   margin: 0 auto;
@@ -233,7 +230,7 @@ html, body {
   color: #7e8287
 }
 
-.summary-txt:before {
+.summary-txt:after {
   position: absolute;
   content: url(../images/ic_2.png);
   left: 50%; 
@@ -247,7 +244,6 @@ html, body {
 }
 
 .features {
-  display: block;
   width: auto;
   margin-top: 77px;
   font-size: 0;
@@ -356,7 +352,6 @@ html, body {
 
 .ovelarlay-services {
   position: relative;
-  display: block;
   width: auto;
   max-width: 1280px;
   margin: 0 auto;
@@ -412,7 +407,7 @@ html, body {
   color: #7e8287;
 }
 
-.services-txt:before {
+.services-txt:after{
   position: absolute;
   content: url(../images/ic_3.png);
   top: -43px;
@@ -505,7 +500,6 @@ html, body {
 }
 
 .content-work-center {
-  display: block;
   width: auto;
   max-width: 676px;
   margin: 0 auto;
@@ -529,7 +523,7 @@ html, body {
   color: #7e8287;
 }
 
-.content-work-txt:before {
+.content-work-txt:after {
   position: absolute;
   content: url(../images/ic_3.png);
   left: 50%; 
@@ -567,7 +561,6 @@ html, body {
 }
 
 .gallery-overlay-txt {
-  display: block;
   width: auto;
   max-width: 190px;
   margin: 0 auto;
@@ -609,7 +602,6 @@ html, body {
 
 .content-contact-center {
   position: relative;
-  display: block;
   width: auto;
   max-width: 677px;
   margin: 0 auto;
@@ -631,7 +623,7 @@ html, body {
   color: #7e8287;
 }
 
-.content-contact-txt:before {
+.content-contact-txt:after {
   position: absolute;
   content: url(../images/ic_3.png);
   left: 50%; 
