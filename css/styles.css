@@ -130,7 +130,8 @@ html, body {
   text-align: center;
 }
 
-.home-overlay {
+.overlay-center {
+  position: relative;
   display: block;
   width: auto;
   max-width: 1000px;
