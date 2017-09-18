@@ -7,11 +7,11 @@ html, body {
   margin: 0 auto;
 }
 
-.wrap-logo-nav-1 {
+.wrap-logo-nav-one {
   background-color: #02918c;
 }
 
-.wrap-logo-nav-2 {
+.wrap-logo-nav-two {
   display: block;
   width: auto;
   max-width: 1187px;
@@ -55,23 +55,23 @@ html, body {
   vertical-align: top;
 }
 
-.list-2 {
+.list-two {
   margin-left: 47px;
 }
 
-.list-3 {
+.list-three {
   margin-left: 47px;
 }
 
-.list-4 {
+.list-four {
   margin-left: 47px;
 }
 
-.list-5 {
+.list-five {
   margin-left: 47px;
 }
 
-.list-1:hover:before {
+.list-one:hover:before {
   content: "";
   position: absolute;
   top: 40px;
@@ -80,7 +80,7 @@ html, body {
   border: 1.5px solid #ffffff;
 }
 
-.list-2:hover:before {
+.list-two:hover:before {
   content: "";
   position: absolute;
   top: 40px;
@@ -89,7 +89,7 @@ html, body {
   border: 1.5px solid #ffffff;
 }
 
-.list-3:hover:before {
+.list-three:hover:before {
   content: "";
   position: absolute;
   top: 40px;
@@ -98,7 +98,7 @@ html, body {
   border: 1.5px solid #ffffff;
 }
 
-.list-4:hover:before {
+.list-four:hover:before {
   content: "";
   position: absolute;
   top: 40px;
@@ -107,7 +107,7 @@ html, body {
   border: 1.5px solid #ffffff;
 }
 
-.list-5:hover:before {
+.list-five:hover:before {
   content: "";
   position: absolute;
   top: 40px;
@@ -130,7 +130,7 @@ html, body {
   text-align: center;
 }
 
-.home-overlay-1 {
+.home-overlay-one {
   position: relative;
   display: block;
   width: auto;
@@ -146,7 +146,7 @@ html, body {
   margin-top: 183px;
 }
 
-.home-txt-1 {
+.home-txt-one {
   font: 30px/0.83  "Open Sans", sans-serif;
   font-weight: 400;
   word-spacing: 5.5px;
@@ -164,7 +164,7 @@ html, body {
   color: #ffffff;
 }
 
-.home-txt-2 {
+.home-txt-two {
   margin-top: -47px;
   font: 18px/1.73 "Open Sans", sans-serif;;
   font-weight: 400;
@@ -254,17 +254,17 @@ html, body {
   text-align: center;
 }
 
-.features-subsection-1,
-.features-subsection-2,
-.features-subsection-3,
-.features-subsection-4 {
+.features-subsection-one,
+.features-subsection-two,
+.features-subsection-three,
+.features-subsection-four {
   display: inline-block;
   width: auto;
   max-width: 288px;
   vertical-align: top;
 }
 
-.features-subsection-1 {
+.features-subsection-one {
   padding-top: 36px;
   padding-left: 69px;
   padding-right: 61px;
@@ -272,7 +272,7 @@ html, body {
   border-right: 1px solid #d9dbdb;
 }
 
-.features-subsection-2 {
+.features-subsection-two {
   padding-top: 36px;
   padding-left: 64px;
   padding-right: 66px;
@@ -280,7 +280,7 @@ html, body {
   border-right: 1px solid #d9dbdb;
 }
 
-.features-subsection-3 {
+.features-subsection-three {
   padding-top: 36px;
   padding-left: 57px;
   padding-right: 73px;
@@ -288,7 +288,7 @@ html, body {
   border-right: 1px solid #d9dbdb;
 }
 
-.features-subsection-4 {
+.features-subsection-four {
   padding-top: 36px;
   padding-left: 50px;
   padding-right: 80px;
@@ -309,35 +309,35 @@ html, body {
   color: #7e8287
 }
 
-.features-icon-1,
-.features-icon-2,
-.features-icon-3,
-.features-icon-4 {
+.features-icon-one,
+.features-icon-two,
+.features-icon-three,
+.features-icon-four {
   display: inline-block;
   text-align: center;
   background-image: url(../images/spritesheet_1.png); 
   background-repeat: no-repeat;
 }
 
-.features-icon-1 {
+.features-icon-one {
   width: 32px;
   height: 33px;
   background-position: -5px -5px
 }
 
-.features-icon-2 {
+.features-icon-two {
   width: 32px;
   height: 33px;
   background-position: -47px -5px
 }
 
-.features-icon-3 {
+.features-icon-three {
   width: 32px;
   height: 33px;
   background-position: -89px -5px;
 }
 
-.features-icon-4 {
+.features-icon-four {
   width: 32px;
   height: 33px;
   background-position: -131px -5px;
@@ -354,7 +354,7 @@ html, body {
   padding-bottom: 17px;
 }
 
-.ovelarlay-services-1 {
+.ovelarlay-services-one {
   position: relative;
   display: block;
   width: auto;
@@ -372,7 +372,7 @@ html, body {
   background-size: 100% 100%;
 }
 
-.ovelarlay-services-2 {
+.ovelarlay-services-two {
   display: inline-block;
   width: 640px;
   padding-left: 93px;
@@ -425,63 +425,63 @@ html, body {
   vertical-align: top;
 }
 
-.services-subsection-1,
-.services-subsection-2,
-.services-subsection-3,
-.services-subsection-4 {
+.services-subsection-one,
+.services-subsection-two,
+.services-subsection-three,
+.services-subsection-four {
   display: inline-block;
   max-width: 164px;
   vertical-align: top;
 }
 
-.services-subsection-1 {
+.services-subsection-one {
   margin-top: -10px;
 }
 
-.services-subsection-2 {
+.services-subsection-two {
   margin-top: -10px;
   margin-left: 107px;
 }
 
-.services-subsection-3 {
+.services-subsection-three {
   padding-top: 40px;
   padding-bottom: 55px;
 }
 
-.services-subsection-4 {
+.services-subsection-four {
   margin-left: 107px;
   padding-top: 40px;
   padding-bottom: 55px;
 }
 
-.services-icon-1,
-.services-icon-2,
-.services-icon-3,
-.services-icon-4 {
+.services-icon-one,
+.services-icon-two,
+.services-icon-three,
+.services-icon-four {
   display: inline-block;
   vertical-align: top;
   background: url(../images/spritesheet_2.png) no-repeat;
 }
 
-.services-icon-1 {
+.services-icon-one {
   width: 32px;
   height: 33px;
   background-position: -4px -4px;
 }
 
-.services-icon-2 {
+.services-icon-two {
   width: 32px;
   height: 33px;
   background-position: -47px -4px;
 }
 
-.services-icon-3 {
+.services-icon-three {
   width: 32px;
   height: 33px;
   background-position: -89px -5px;
 }
 
-.services-icon-4 {
+.services-icon-four {
   width: 32px;
   height: 33px;
   background-position: -133px -5px;
@@ -541,14 +541,14 @@ html, body {
   font-size: 0;
 }
 
-.gallery-photo-1,
-.gallery-photo-2,
-.gallery-photo-3,
-.gallery-photo-4,
-.gallery-photo-5,
-.gallery-photo-6,
-.gallery-photo-7,
-.gallery-photo-8 {
+.gallery-photo-one,
+.gallery-photo-two,
+.gallery-photo-three,
+.gallery-photo-four,
+.gallery-photo-five,
+.gallery-photo-six,
+.gallery-photo-seven,
+.gallery-photo-eight {
   position: relative;
   display: inline-block;
   width: 25%;
