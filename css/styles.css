@@ -500,11 +500,11 @@ html, body {
   color: #7e8287
 }
 
-.wrap-content-work {
+.content-work-overlay {
   padding-top: 57px;
 }
 
-.content-work-overlay {
+.content-work-center {
   display: block;
   width: auto;
   max-width: 676px;
@@ -607,7 +607,7 @@ html, body {
   text-align: center;
 }
 
-.content-contact-overlay {
+.content-contact-center {
   position: relative;
   display: block;
   width: auto;
