@@ -7,11 +7,11 @@ html, body {
   margin: 0 auto;
 }
 
-.wrap-logo-nav-one {
+.wrap-logo-nav {
   background-color: #02918c;
 }
 
-.wrap-logo-nav-two {
+.wrap-logo-nav-center {
   display: block;
   width: auto;
   max-width: 1187px;
@@ -130,14 +130,14 @@ html, body {
   text-align: center;
 }
 
-.home-overlay-one {
+.home-overlay {
   display: block;
   width: auto;
   max-width: 1000px;
   margin: 0 auto;
 }
 
-.overlay-txt-title:before {
+.overlay-center:before {
   position: absolute;
   content: url(../images/ic_1.png);
   left: 50%; 
@@ -353,7 +353,7 @@ html, body {
   padding-bottom: 17px;
 }
 
-.ovelarlay-services-one {
+.ovelarlay-services {
   position: relative;
   display: block;
   width: auto;
@@ -371,7 +371,7 @@ html, body {
   background-size: 100% 100%;
 }
 
-.ovelarlay-services-two {
+.ovelarlay-services-center {
   display: inline-block;
   width: 640px;
   padding-left: 93px;
