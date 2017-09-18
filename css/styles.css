@@ -125,7 +125,7 @@ html, body {
   padding-top: 180px;
   padding-bottom: 211px;
   background: #000000 url(../images/header_home.jpg)  no-repeat;
-  background-size: 100% 100%;
+  background-size: cover;
   background-position: top center;
   text-align: center;
 }
