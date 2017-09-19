@@ -141,7 +141,7 @@ html, body {
   content: url(../images/ic_1.png);
   left: 50%; 
   margin-left: -54px;
-  margin-top: 183px;
+  margin-top: 28px;
 }
 
 .home-txt-one {
@@ -230,7 +230,7 @@ html, body {
   color: #7e8287
 }
 
-.summary-txt:after {
+.summary-txt:before {
   position: absolute;
   content: url(../images/ic_2.png);
   left: 50%; 
@@ -407,7 +407,7 @@ html, body {
   color: #7e8287;
 }
 
-.services-txt:after{
+.services-txt:before {
   position: absolute;
   content: url(../images/ic_3.png);
   top: -43px;
@@ -523,7 +523,7 @@ html, body {
   color: #7e8287;
 }
 
-.content-work-txt:after {
+.content-work-txt:before {
   position: absolute;
   content: url(../images/ic_3.png);
   left: 50%; 
@@ -623,7 +623,7 @@ html, body {
   color: #7e8287;
 }
 
-.content-contact-txt:after {
+.content-contact-txt:before {
   position: absolute;
   content: url(../images/ic_3.png);
   left: 50%; 
