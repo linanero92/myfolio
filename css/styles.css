@@ -1,8 +1,16 @@
-* {
-  box-sizing: border-box;
+html {
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
 }
 
-html, body {
+*,
+*:before,
+ *:after {
+  -webkit-box-sizing: inherit;
+          box-sizing: inherit;
+}
+
+body {
   min-width: 1280px;
   margin: 0 auto;
 }
